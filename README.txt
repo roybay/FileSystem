@@ -8,7 +8,3 @@ FileSystem ready to run
 You can also find more detail information about VMsimulator in man page...
      ./FileSystem ?
      ./FileSystem help
-
-Note:
-     libmy files is also my code which I wrote previously in CS392
-     course and used them in my previous assignments. 
